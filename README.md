@@ -57,6 +57,7 @@ Para facilitar la predicción de nuevos casos sin necesidad de código, se imple
 * scaler_amount.pkl
 * scaler_time.pkl
 * app.py
+* CUADERNO: project_ML.ipynb
 
 Ejecuta la app con el siguiente comando:
 `streamlit run app.py `
